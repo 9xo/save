@@ -1,6 +1,6 @@
 ### When in `delirium`, help `save` 9xo.
 
-`0x00`
+0x00
 #### No. 0x00 : The Bitcoin "BTC" bitcoins
 
 |Address|Protocol|
@@ -9,14 +9,14 @@
 |37Pc5eSRQvJ1tWNZDQF7Fv9mdZpaaZa4Sg|`WIF`|
 |321qggcpZWLi8Z48zMijA1tRgVq5eWL1wT|LN|
 
-`0x01`
+0x01
 #### No. 0x01 : The Litecoin "LTC" litecoins
 
 |Address|Protocol|
 |----|----|
 |`hidden`||
 
-`0x02`
+0x02
 #### No. 0x02 : The Bitcoin "BTC" cash
 
 |Address|Protocol|
@@ -25,7 +25,7 @@
 |bitcoincash:pztzjghy7cu7xxx90gcua8a3yuh6rd29t55fufznsq|Longform|
 |bitcoincash:3FNzZX46SzTGdBiJktz41f7bkqrZWZqB2B|Legacyformat|
 
-`0x03`
+0x03
 #### No. 0x03 : The Ethereum "ETH" ethers
 
 |Address|Protocol|
