@@ -30,7 +30,6 @@
 
 |Address|Protocol|
 |----|----|
-|`unhide`|`hide`|
+|0xd6df5C1C8a2a5881E14855463cf576193c8721db|`hide`|
 
 With extra ❤️ from [Xe](https://N1X.site)non.
-`(X`
