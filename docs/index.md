@@ -29,4 +29,7 @@
 #### No. 0x03 : The Ethereum "ETH" ethers
 |Address|Protocol|
 |----|----|
-|`unhide`||
+|`unhide`|`hide`|
+
+With extra ❤️ from [Xe](https://N1X.site)non.
+`(X`
