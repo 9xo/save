@@ -3,9 +3,9 @@
 
 |Address|Protocol|
 |----|----|
-|1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC|$`BTC`|bitcoin.org
+|1n1x8i5vurs1bemxiy5zaeensjhsvwdqec|$`BTC`|bitcoin.org
 |3R 33 33 33 33 33|$`EOS`|eos.io
-|0xD0f79B71A8ffB7f70392630f8BFc900fcA27af42|$`ETH`|ethereum.org
-|LUUv1SnsYECfCRCMLXgxDrcLFgLwA4PRaf|$`LTC`|litecoin.org
+|0xd0f79b71a8ffb7f70392630f8bfc900fca27af42|$`ETH`|ethereum.org
+|Luuv1snsyecfcrcmlxgxdrclfglwa4praf|$`LTC`|litecoin.org
 
 With extra ❤️ from [Xe](https://2by.me)non.
